@@ -21,7 +21,7 @@ Pick a beach and listen to it's sound.
 
 Find yourself in the middle of a coffee shop.
 
-## ProjectAudio for Github
+## ProjectAudio for Github :tada: :octocat: :zap:
 > https://github.audio
 
 Tracks events across GitHub to generate calming work music
@@ -30,6 +30,12 @@ Tracks events across GitHub to generate calming work music
 > https://musicforprogramming.net/
 
 Mixes intended for listening while programming
+
+## cmd.fm
+> http://cmd.to/
+
+Music visualized and controlled via a command line interface
+
 
 ## MyNoise.net
 > http://www.mynoise.net
